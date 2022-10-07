@@ -1,0 +1,451 @@
+Province,Type,Year,Value
+Albacete,Internal migration,2019,-1.963310475
+Alicante,Internal migration,2019,-0.14250747
+Almeria,Internal migration,2019,-0.822898234
+Alava,Internal migration,2019,0.012173818
+Asturias,Internal migration,2019,-0.25587257
+Avila,Internal migration,2019,-2.448866534
+Badajoz,Internal migration,2019,-2.121842009
+Baleares,Internal migration,2019,1.431455803
+Barcelona,Internal migration,2019,-1.0999272
+Bizkaia,Internal migration,2019,0.009658188
+Burgos,Internal migration,2019,-0.45862654
+Caceres,Internal migration,2019,-2.545120364
+Cadiz,Internal migration,2019,-0.301252234
+Cantabria,Internal migration,2019,0.500105692
+Castellon,Internal migration,2019,2.22539887
+Ciudad Real,Internal migration,2019,-2.968656091
+Cordoba,Internal migration,2019,-0.790382826
+A Coruna,Internal migration,2019,0.548353646
+Cuenca,Internal migration,2019,-2.154589275
+Gipuzkoa,Internal migration,2019,-0.352736155
+Girona,Internal migration,2019,1.259386302
+Granada,Internal migration,2019,-0.206141274
+Guadalajara,Internal migration,2019,4.370333958
+Huelva,Internal migration,2019,-0.446254783
+Huesca,Internal migration,2019,2.262494936
+Jaen,Internal migration,2019,-3.775459355
+Leon,Internal migration,2019,-1.954465302
+Lleida,Internal migration,2019,0.171056342
+Lugo,Internal migration,2019,-1.015926318
+Madrid,Internal migration,2019,0.535406123
+Malaga,Internal migration,2019,1.788583236
+Murcia,Internal migration,2019,-0.373223177
+Navarra,Internal migration,2019,0.588450735
+Ourense,Internal migration,2019,-0.475912628
+Palencia,Internal migration,2019,-0.942412952
+Las Palmas,Internal migration,2019,-0.186167493
+Pontevedra,Internal migration,2019,0.802685812
+La Rioja,Internal migration,2019,1.89860737
+Salamanca,Internal migration,2019,-2.483516152
+Tenerife,Internal migration,2019,0.367071716
+Segovia,Internal migration,2019,-1.129723413
+Sevilla,Internal migration,2019,-0.118813139
+Soria,Internal migration,2019,1.093908714
+Tarragona,Internal migration,2019,3.052310283
+Teruel,Internal migration,2019,-0.571166608
+Toledo,Internal migration,2019,3.491034258
+Valencia,Internal migration,2019,1.040693587
+Valladolid,Internal migration,2019,0.224898796
+Zamora,Internal migration,2019,-2.984901614
+Zaragoza,Internal migration,2019,0.976790671
+Albacete,Internal migration,2020,-0.07711547
+Alicante,Internal migration,2020,0.963610348
+Almeria,Internal migration,2020,-0.376493949
+Alava,Internal migration,2020,-0.093894723
+Asturias,Internal migration,2020,1.182722211
+Avila,Internal migration,2020,6.546696606
+Badajoz,Internal migration,2020,0.313395883
+Baleares,Internal migration,2020,-1.572706182
+Barcelona,Internal migration,2020,-2.777591927
+Bizkaia,Internal migration,2020,-0.982213359
+Burgos,Internal migration,2020,0.752093609
+Caceres,Internal migration,2020,0.095070956
+Cadiz,Internal migration,2020,1.551021189
+Cantabria,Internal migration,2020,4.056147244
+Castellon,Internal migration,2020,3.827969022
+Ciudad Real,Internal migration,2020,0.449504934
+Cordoba,Internal migration,2020,-1.729175819
+A Coruna,Internal migration,2020,1.513068135
+Cuenca,Internal migration,2020,2.319940416
+Gipuzkoa,Internal migration,2020,-0.094853236
+Girona,Internal migration,2020,4.634441684
+Granada,Internal migration,2020,1.221614475
+Guadalajara,Internal migration,2020,9.53677438
+Huelva,Internal migration,2020,0.788988222
+Huesca,Internal migration,2020,5.758818332
+Jaen,Internal migration,2020,-2.145378908
+Leon,Internal migration,2020,0.518908409
+Lleida,Internal migration,2020,3.048353912
+Lugo,Internal migration,2020,2.155007718
+Madrid,Internal migration,2020,-2.841480044
+Malaga,Internal migration,2020,1.731309538
+Murcia,Internal migration,2020,0.216006764
+Navarra,Internal migration,2020,1.037727954
+Ourense,Internal migration,2020,2.686026121
+Palencia,Internal migration,2020,0.125535881
+Las Palmas,Internal migration,2020,-0.809536426
+Pontevedra,Internal migration,2020,1.333191918
+La Rioja,Internal migration,2020,0.939501779
+Salamanca,Internal migration,2020,0.288910109
+Tenerife,Internal migration,2020,0.344174999
+Segovia,Internal migration,2020,4.946725073
+Sevilla,Internal migration,2020,0.33919209
+Soria,Internal migration,2020,1.241694073
+Tarragona,Internal migration,2020,5.164980526
+Teruel,Internal migration,2020,5.199176547
+Toledo,Internal migration,2020,6.770478772
+Valencia,Internal migration,2020,0.499653936
+Valladolid,Internal migration,2020,-0.011541724
+Zamora,Internal migration,2020,0.938146808
+Zaragoza,Internal migration,2020,0.101298358
+Albacete,International migration,2019,5.084075884
+Alicante,International migration,2019,13.33005264
+Almeria,International migration,2019,10.37555106
+Alava,International migration,2019,7.200813211
+Asturias,International migration,2019,4.639038311
+Avila,International migration,2019,6.956291824
+Badajoz,International migration,2019,2.194854831
+Baleares,International migration,2019,15.9747129
+Barcelona,International migration,2019,12.12273469
+Bizkaia,International migration,2019,8.57295883
+Burgos,International migration,2019,5.399413071
+Caceres,International migration,2019,2.917826054
+Cadiz,International migration,2019,4.538760455
+Cantabria,International migration,2019,5.050895636
+Castellon,International migration,2019,5.063436958
+Ciudad Real,International migration,2019,4.453995949
+Cordoba,International migration,2019,3.584768558
+A Coruna,International migration,2019,6.00068299
+Cuenca,International migration,2019,8.498100955
+Gipuzkoa,International migration,2019,7.747597685
+Girona,International migration,2019,11.6956146
+Granada,International migration,2019,6.541188112
+Guadalajara,International migration,2019,8.828996283
+Huelva,International migration,2019,6.98626105
+Huesca,International migration,2019,7.693393242
+Jaen,International migration,2019,1.871066238
+Leon,International migration,2019,3.14234588
+Lleida,International migration,2019,11.61102712
+Lugo,International migration,2019,6.192892166
+Madrid,International migration,2019,13.97694134
+Malaga,International migration,2019,11.43543981
+Murcia,International migration,2019,10.09575382
+Navarra,International migration,2019,9.796785281
+Ourense,International migration,2019,7.947088947
+Palencia,International migration,2019,3.513764846
+Las Palmas,International migration,2019,10.75663539
+Pontevedra,International migration,2019,6.066860755
+La Rioja,International migration,2019,7.99832083
+Salamanca,International migration,2019,5.425713294
+Tenerife,International migration,2019,17.94655436
+Segovia,International migration,2019,6.213478769
+Sevilla,International migration,2019,3.955658117
+Soria,International migration,2019,9.633094087
+Tarragona,International migration,2019,12.20676461
+Teruel,International migration,2019,5.952157281
+Toledo,International migration,2019,8.353443475
+Valencia,International migration,2019,11.62114367
+Valladolid,International migration,2019,3.634902755
+Zamora,International migration,2019,2.434288695
+Zaragoza,International migration,2019,10.20741105
+Albacete,International migration,2020,2.925246834
+Alicante,International migration,2020,6.402373201
+Almeria,International migration,2020,6.009958962
+Alava,International migration,2020,2.404916449
+Asturias,International migration,2020,2.56240066
+Avila,International migration,2020,3.706632088
+Badajoz,International migration,2020,1.525193298
+Baleares,International migration,2020,8.333449922
+Barcelona,International migration,2020,6.626218757
+Bizkaia,International migration,2020,3.704747715
+Burgos,International migration,2020,2.721057776
+Caceres,International migration,2020,1.251339344
+Cadiz,International migration,2020,2.870225651
+Cantabria,International migration,2020,3.407026305
+Castellon,International migration,2020,2.366633594
+Ciudad Real,International migration,2020,2.269898221
+Cordoba,International migration,2020,1.164703358
+A Coruna,International migration,2020,2.645865468
+Cuenca,International migration,2020,3.51765369
+Gipuzkoa,International migration,2020,3.524913621
+Girona,International migration,2020,4.951459843
+Granada,International migration,2020,5.046315498
+Guadalajara,International migration,2020,3.737898411
+Huelva,International migration,2020,4.374438295
+Huesca,International migration,2020,4.277202601
+Jaen,International migration,2020,1.566796038
+Leon,International migration,2020,2.207002855
+Lleida,International migration,2020,3.025416712
+Lugo,International migration,2020,3.347139648
+Madrid,International migration,2020,6.282778766
+Malaga,International migration,2020,6.964383896
+Murcia,International migration,2020,4.365854499
+Navarra,International migration,2020,3.212087553
+Ourense,International migration,2020,3.690423221
+Palencia,International migration,2020,1.726118368
+Las Palmas,International migration,2020,2.640733795
+Pontevedra,International migration,2020,2.465927772
+La Rioja,International migration,2020,4.245156188
+Salamanca,International migration,2020,0.294992428
+Tenerife,International migration,2020,7.622328973
+Segovia,International migration,2020,3.755605746
+Sevilla,International migration,2020,2.358022607
+Soria,International migration,2020,4.071861646
+Tarragona,International migration,2020,5.542218847
+Teruel,International migration,2020,2.727313709
+Toledo,International migration,2020,3.43947172
+Valencia,International migration,2020,4.612369643
+Valladolid,International migration,2020,2.614200553
+Zamora,International migration,2020,0.539434415
+Zaragoza,International migration,2020,5.220446716
+Albacete,Total,2019,3.120765409
+Alicante,Total,2019,13.18754517
+Almeria,Total,2019,9.552652827
+Alava,Total,2019,7.212987029
+Asturias,Total,2019,4.383165742
+Avila,Total,2019,4.507425291
+Badajoz,Total,2019,0.073012822
+Baleares,Total,2019,17.4061687
+Barcelona,Total,2019,11.02280749
+Bizkaia,Total,2019,8.582617018
+Burgos,Total,2019,4.94078653
+Caceres,Total,2019,0.37270569
+Cadiz,Total,2019,4.237508221
+Cantabria,Total,2019,5.551001328
+Castellon,Total,2019,7.288835828
+Ciudad Real,Total,2019,1.485339857
+Cordoba,Total,2019,2.794385732
+A Coruna,Total,2019,6.549036636
+Cuenca,Total,2019,6.34351168
+Gipuzkoa,Total,2019,7.39486153
+Girona,Total,2019,12.95500091
+Granada,Total,2019,6.335046837
+Guadalajara,Total,2019,13.19933024
+Huelva,Total,2019,6.540006267
+Huesca,Total,2019,9.955888177
+Jaen,Total,2019,-1.904393118
+Leon,Total,2019,1.187880578
+Lleida,Total,2019,11.78208347
+Lugo,Total,2019,5.176965848
+Madrid,Total,2019,14.51234747
+Malaga,Total,2019,13.22402304
+Murcia,Total,2019,9.72253064
+Navarra,Total,2019,10.38523602
+Ourense,Total,2019,7.471176319
+Palencia,Total,2019,2.571351894
+Las Palmas,Total,2019,10.57046789
+Pontevedra,Total,2019,6.869546567
+La Rioja,Total,2019,9.8969282
+Salamanca,Total,2019,2.942197142
+Tenerife,Total,2019,18.31362607
+Segovia,Total,2019,5.083755356
+Sevilla,Total,2019,3.836844979
+Soria,Total,2019,10.7270028
+Tarragona,Total,2019,15.2590749
+Teruel,Total,2019,5.380990673
+Toledo,Total,2019,11.84447773
+Valencia,Total,2019,12.66183725
+Valladolid,Total,2019,3.859801551
+Zamora,Total,2019,-0.550612919
+Zaragoza,Total,2019,11.18420172
+Albacete,Total,2020,2.848131364
+Alicante,Total,2020,7.365983549
+Almeria,Total,2020,5.633465013
+Alava,Total,2020,2.311021726
+Asturias,Total,2020,3.745122871
+Avila,Total,2020,10.25332869
+Badajoz,Total,2020,1.838589181
+Baleares,Total,2020,6.760743739
+Barcelona,Total,2020,3.84862683
+Bizkaia,Total,2020,2.722534356
+Burgos,Total,2020,3.473151385
+Caceres,Total,2020,1.346410301
+Cadiz,Total,2020,4.421246839
+Cantabria,Total,2020,7.463173549
+Castellon,Total,2020,6.194602616
+Ciudad Real,Total,2020,2.719403155
+Cordoba,Total,2020,-0.564472461
+A Coruna,Total,2020,4.158933603
+Cuenca,Total,2020,5.837594106
+Gipuzkoa,Total,2020,3.430060385
+Girona,Total,2020,9.585901527
+Granada,Total,2020,6.267929974
+Guadalajara,Total,2020,13.27467279
+Huelva,Total,2020,5.163426517
+Huesca,Total,2020,10.03602093
+Jaen,Total,2020,-0.57858287
+Leon,Total,2020,2.725911264
+Lleida,Total,2020,6.073770623
+Lugo,Total,2020,5.502147366
+Madrid,Total,2020,3.441298722
+Malaga,Total,2020,8.695693434
+Murcia,Total,2020,4.581861263
+Navarra,Total,2020,4.249815507
+Ourense,Total,2020,6.376449342
+Palencia,Total,2020,1.851654249
+Las Palmas,Total,2020,1.831197369
+Pontevedra,Total,2020,3.79911969
+La Rioja,Total,2020,5.184657968
+Salamanca,Total,2020,0.583902537
+Tenerife,Total,2020,7.966503971
+Segovia,Total,2020,8.702330819
+Sevilla,Total,2020,2.697214697
+Soria,Total,2020,5.31355572
+Tarragona,Total,2020,10.70719937
+Teruel,Total,2020,7.926490255
+Toledo,Total,2020,10.20995049
+Valencia,Total,2020,5.112023579
+Valladolid,Total,2020,2.602658829
+Zamora,Total,2020,1.477581223
+Zaragoza,Total,2020,5.321745074
+Albacete,Internal migration,2021,-1.010335318
+Alicante,Internal migration,2021,1.437318326
+Almeria,Internal migration,2021,0.395566326
+Alava,Internal migration,2021,-0.066834563
+Asturias,Internal migration,2021,0.548122803
+Avila,Internal migration,2021,5.358949068
+Badajoz,Internal migration,2021,-0.756363941
+Baleares,Internal migration,2021,-1.868964205
+Barcelona,Internal migration,2021,-2.401797832
+Bizkaia,Internal migration,2021,-1.629288779
+Burgos,Internal migration,2021,0.073522342
+Caceres,Internal migration,2021,-0.103324732
+Cadiz,Internal migration,2021,1.338973348
+Cantabria,Internal migration,2021,3.045446911
+Castellon,Internal migration,2021,4.408070293
+Ciudad Real,Internal migration,2021,-1.060073553
+Cordoba,Internal migration,2021,-2.347824636
+A Coruna,Internal migration,2021,1.182461699
+Cuenca,Internal migration,2021,1.482836792
+Gipuzkoa,Internal migration,2021,-1.010042993
+Girona,Internal migration,2021,4.01004903
+Granada,Internal migration,2021,0.248789172
+Guadalajara,Internal migration,2021,5.13589588
+Huelva,Internal migration,2021,1.231503939
+Huesca,Internal migration,2021,5.318142076
+Jaen,Internal migration,2021,-2.937208162
+Leon,Internal migration,2021,0.860340298
+Lleida,Internal migration,2021,2.724776892
+Lugo,Internal migration,2021,1.2209862
+Madrid,Internal migration,2021,-2.371052414
+Malaga,Internal migration,2021,2.929201844
+Murcia,Internal migration,2021,0.948207308
+Navarra,Internal migration,2021,0.443002614
+Ourense,Internal migration,2021,2.250303495
+Palencia,Internal migration,2021,-0.139517776
+Las Palmas,Internal migration,2021,-0.589315595
+Pontevedra,Internal migration,2021,1.424679872
+La Rioja,Internal migration,2021,0.519360427
+Salamanca,Internal migration,2021,-0.557456284
+Tenerife,Internal migration,2021,0.59319408
+Segovia,Internal migration,2021,3.043051374
+Sevilla,Internal migration,2021,0.241354976
+Soria,Internal migration,2021,0.763899031
+Tarragona,Internal migration,2021,5.970032967
+Teruel,Internal migration,2021,1.526189563
+Toledo,Internal migration,2021,5.167819251
+Valencia,Internal migration,2021,1.489844158
+Valladolid,Internal migration,2021,0.233836307
+Zamora,Internal migration,2021,0.432872196
+Zaragoza,Internal migration,2021,-0.479017169
+Albacete,International migration,2021,0.67269775
+Alicante,International migration,2021,6.106495383
+Almeria,International migration,2021,3.003528174
+Alava,International migration,2021,2.202502651
+Asturias,International migration,2021,1.363864335
+Avila,International migration,2021,3.537032034
+Badajoz,International migration,2021,0.763852693
+Baleares,International migration,2021,4.776150737
+Barcelona,International migration,2021,4.230673466
+Bizkaia,International migration,2021,1.207206937
+Burgos,International migration,2021,1.645769355
+Caceres,International migration,2021,1.195983768
+Cadiz,International migration,2021,1.880446536
+Cantabria,International migration,2021,3.026594961
+Castellon,International migration,2021,1.588572004
+Ciudad Real,International migration,2021,0.90106252
+Cordoba,International migration,2021,0.82539707
+A Coruna,International migration,2021,3.665274029
+Cuenca,International migration,2021,3.438170732
+Gipuzkoa,International migration,2021,1.039461721
+Girona,International migration,2021,1.201851627
+Granada,International migration,2021,3.33872915
+Guadalajara,International migration,2021,1.198250103
+Huelva,International migration,2021,4.769962585
+Huesca,International migration,2021,3.141309345
+Jaen,International migration,2021,1.725790066
+Leon,International migration,2021,1.478020511
+Lleida,International migration,2021,1.582572437
+Lugo,International migration,2021,2.767978791
+Madrid,International migration,2021,4.16258679
+Malaga,International migration,2021,7.3650351
+Murcia,International migration,2021,4.54255921
+Navarra,International migration,2021,2.980752983
+Ourense,International migration,2021,5.217808981
+Palencia,International migration,2021,1.579087554
+Las Palmas,International migration,2021,3.545440659
+Pontevedra,International migration,2021,2.681625451
+La Rioja,International migration,2021,2.511297673
+Salamanca,International migration,2021,3.44887789
+Tenerife,International migration,2021,7.876045287
+Segovia,International migration,2021,0.052017972
+Sevilla,International migration,2021,0.526082411
+Soria,International migration,2021,3.830728962
+Tarragona,International migration,2021,-1.118772491
+Teruel,International migration,2021,3.307997083
+Toledo,International migration,2021,1.879723266
+Valencia,International migration,2021,6.888735289
+Valladolid,International migration,2021,1.683234903
+Zamora,International migration,2021,1.28082732
+Zaragoza,International migration,2021,-14.10752527
+Albacete,Total,2021,-0.337637568
+Alicante,Total,2021,7.543813709
+Almeria,Total,2021,3.3990945
+Alava,Total,2021,2.135668087
+Asturias,Total,2021,1.911987138
+Avila,Total,2021,8.895981102
+Badajoz,Total,2021,0.007488752
+Baleares,Total,2021,2.907186532
+Barcelona,Total,2021,1.828875634
+Bizkaia,Total,2021,-0.422081842
+Burgos,Total,2021,1.719291697
+Caceres,Total,2021,1.092659036
+Cadiz,Total,2021,3.219419884
+Cantabria,Total,2021,6.072041872
+Castellon,Total,2021,5.996642297
+Ciudad Real,Total,2021,-0.159011033
+Cordoba,Total,2021,-1.522427566
+A Coruna,Total,2021,4.847735729
+Cuenca,Total,2021,4.921007525
+Gipuzkoa,Total,2021,0.029418728
+Girona,Total,2021,5.211900657
+Granada,Total,2021,3.587518323
+Guadalajara,Total,2021,6.334145983
+Huelva,Total,2021,6.001466524
+Huesca,Total,2021,8.45945142
+Jaen,Total,2021,-1.211418096
+Leon,Total,2021,2.338360809
+Lleida,Total,2021,4.307349329
+Lugo,Total,2021,3.988964991
+Madrid,Total,2021,1.791534377
+Malaga,Total,2021,10.29423694
+Murcia,Total,2021,5.490766518
+Navarra,Total,2021,3.423755597
+Ourense,Total,2021,7.468112476
+Palencia,Total,2021,1.439569778
+Las Palmas,Total,2021,2.956125063
+Pontevedra,Total,2021,4.106305323
+La Rioja,Total,2021,3.030658099
+Salamanca,Total,2021,2.891421605
+Tenerife,Total,2021,8.469239368
+Segovia,Total,2021,3.095069346
+Sevilla,Total,2021,0.767437387
+Soria,Total,2021,4.594627992
+Tarragona,Total,2021,4.851260476
+Teruel,Total,2021,4.834186646
+Toledo,Total,2021,7.047542517
+Valencia,Total,2021,8.378579447
+Valladolid,Total,2021,1.91707121
+Zamora,Total,2021,1.713699516
+Zaragoza,Total,2021,-14.58654244
